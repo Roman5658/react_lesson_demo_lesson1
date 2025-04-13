@@ -4,3 +4,6 @@
   padding: 5px;
   background-color: #e0f7fa;
 }
+.duration:hover{
+  background-color: #a8dee4;
+}

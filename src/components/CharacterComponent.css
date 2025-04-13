@@ -3,4 +3,10 @@
   border: 1px solid #ccc;
   padding: 10px;
   width: 200px;
+  transition: 0.5s;
+}
+.character:hover{
+  background: #988989;
+  color: white;
+  width: 220px;
 }

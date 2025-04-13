@@ -77,7 +77,7 @@ const coursesArray = [
 function App() {
     return (
         <div>
-            <h1>Homework</h1>
+            <h1>Homework for lesson1</h1>
 
             <h2>1. Course Titles</h2>
             {coursesTitleArray.map((title, i) => <CourseTitle key={i} title={title} />)}
